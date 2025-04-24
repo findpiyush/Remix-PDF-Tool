@@ -33,7 +33,7 @@ The tool is easy to use. Here's how the process works:
 
 Here is the flowchart that shows the steps visually:
 
-![Remix PDF Tool Flowchart](flowchart.jpg)
+![Remix PDF Tool Flowchart](./flowchart.jpg)
 
 ## Why Remix?
 
