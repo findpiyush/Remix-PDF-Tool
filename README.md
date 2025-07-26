@@ -1,6 +1,6 @@
 # Remix PDF Tool
 
-Welcome to Remix, a simple and secure tool for working with PDFs. With Remix, you can merge PDF files, convert DOCX files to PDF, and encrypt your PDFs. All actions happen locally on your device so your files are never uploaded anywhere.
+Welcome to Remix, a simple and secure tool for working with PDFs. With Remix, you can merge PDF files, convert DOCX files to PDF, and encrypt your PDFs. All actions happen locally on your device so your files are never uploaded anywhere. We've included the report [here](https://drive.google.com/file/d/1BOKqsRb0KRZTgBLdu_tmEcOZJo5h_VuB/view).
 
 ## Features
 
